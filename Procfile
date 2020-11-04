@@ -1,1 +1,1 @@
-wed: 71.0.mvc.js
+web: 71.0.mvc.js
